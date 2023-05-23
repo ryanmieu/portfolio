@@ -635,7 +635,7 @@ h4 {
 @media (max-width: 550px) {
 
     .contact {
-        width: 420px;
+        min-width: 410px;
     }
 
 }
