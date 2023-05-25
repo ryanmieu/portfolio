@@ -679,22 +679,3 @@ h4 {
         flex-wrap: wrap;
     }
 }
-
-@keyframes floating {
-
-    0%,
-    100% {
-        transform: translate(0, 0);
-    }
-
-    50% {
-        transform: translate(0, -10px);
-    }
-}
-
-.typing-animation {
-    overflow: hidden;
-    display: inline-block;
-    animation: typing 2s steps(40, end) infinite, deleting 2s steps(40, end) infinite;
-    white-space: nowrap;
-}
