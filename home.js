@@ -47,4 +47,5 @@ document.querySelector('.switch2').addEventListener('click', function () {
   document.querySelector('#message').style.backgroundColor = 'white';
   document.querySelector('.switch2').style.color = 'yellow';
   document.querySelector('.switch').style.color = 'white';
+  document.querySelector('h4').style.color = 'white';
 });
