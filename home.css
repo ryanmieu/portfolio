@@ -192,11 +192,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: aqua;
-  background-image: url(Downloads/nav.png);
   background-position: center;
   background-size: cover;
-  box-shadow: 0 20px 10px -20px rgba(0, 0, 0, 0.45) inset;
+  border-top: 2px solid black;
 }
 
 .copy h3 {
