@@ -656,7 +656,7 @@ h4 {
   }
 }
 
-@media (max-width: 1215px) {
+@media (max-width: 1214px) {
   .align {
     grid-template-columns: 1fr 1fr;
   }
